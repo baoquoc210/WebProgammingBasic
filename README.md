@@ -1,3 +1,1 @@
-# WebProgammingBasic
-HTML, CSS,  JS 
-Work hard!
+first project ever and ever
